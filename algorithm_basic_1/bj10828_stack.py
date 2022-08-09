@@ -36,9 +36,12 @@ for _ in range(N):
         else:
             print(0)
 
-    else:
+    elif command[0] == 'top':
         if stack_size == 0:
             print(-1)
         else:
             print(stack[stack_size-1])
+    else:
+        print("명령어 오류 \ push n, pop, size, empty, top 중 하나 입력")
+
 
