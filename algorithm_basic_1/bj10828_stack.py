@@ -2,6 +2,7 @@
 # BOO.SK 
 
 # Algorithm basic 1/2 in Baekjoon
+# 10828번 stack 
 # 1차시 : 시간 초과로 size 함수제거하고 사이즈를 변수로 저장
 # 2차시 : input() 함수의 시간이 오래걸린다 하여 sys.stdin.readline()로 변경
 
